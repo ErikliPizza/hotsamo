@@ -1,0 +1,9 @@
+c:\users\samet\documents\visual studio 2013\Projects\Deneme\Deneme\obj\Debug\Deneme.csprojResolveAssemblyReference.cache
+c:\users\samet\documents\visual studio 2013\Projects\Deneme\Deneme\obj\Debug\Deneme.Form1.resources
+c:\users\samet\documents\visual studio 2013\Projects\Deneme\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+c:\users\samet\documents\visual studio 2013\Projects\Deneme\Deneme\obj\Debug\Deneme.csproj.GenerateResource.Cache
+c:\users\samet\documents\visual studio 2013\Projects\Deneme\Deneme\bin\Debug\Hotsamo.exe.config
+c:\users\samet\documents\visual studio 2013\Projects\Deneme\Deneme\bin\Debug\Hotsamo.exe
+c:\users\samet\documents\visual studio 2013\Projects\Deneme\Deneme\bin\Debug\Hotsamo.pdb
+c:\users\samet\documents\visual studio 2013\Projects\Deneme\Deneme\obj\Debug\Hotsamo.exe
+c:\users\samet\documents\visual studio 2013\Projects\Deneme\Deneme\obj\Debug\Hotsamo.pdb
